@@ -1,6 +1,6 @@
 # eecs595-final-project (Group 50)
 
-
+This repo contains the code for the final project in course EECS-595.
 
 ## Requirements
 
